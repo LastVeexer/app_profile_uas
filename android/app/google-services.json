@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "154696595033",
+    "project_id": "appprofileuas",
+    "storage_bucket": "appprofileuas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154696595033:android:4a2881e67d7edc723ca348",
+        "android_client_info": {
+          "package_name": "com.example.app_profile_uas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNcfgGF37QrfIVwGrgijlCbZ9YRm62TJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
