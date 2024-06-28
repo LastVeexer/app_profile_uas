@@ -1,7 +1,10 @@
 # app_profile_uas
+**ARTHA YASA / 1901020017**
+**HAGA MATSYA / 2101020073**
+
 **I. Judul dan Deksripsi Singkat** 
-   Judul : Aplikasi Mobile Profile Management V1
-   Deskripsi Singkat :
+   - Judul : Aplikasi Mobile Profile Management V1
+   -  Deskripsi Singkat :
    Aplikasi Mobile Profile Management V1 adalah sebuah aplikasi yang dirancang untuk mengelola profil pengguna, mengakses kamera, dan menampilkan lokasi pengguna menggunakan Google Maps. Aplikasi ini juga menggunakan Firebase sebagai backend untuk menyimpan dan mengambil data profil pengguna. Laporan ini menjelaskan implementasi aplikasi, fitur-fitur yang tersedia, dan teknologi yang digunakan. Untuk Versi 1 masih banyak kekurangan yang harus ditambahkan untuk menyempurnakan aplikasi ini.
 
 **II. Design**
@@ -131,13 +134,14 @@ Permission Handler: Untuk mengelola izin aplikasi.
    - Activity Utama: MainActivity dengan konfigurasi intent-filter untuk menentukan aktivitas utama aplikasi.
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+How To Install :
+1. Buka terminal atau command prompt.
+2. Navigasikan ke direktori tempat Anda ingin menyimpan proyek.
+3. Jalankan perintah berikut untuk meng-clone repository :
+   git clone https://github.com/LastVeexer/app_profile_uas.git
+4. Setelah cloning selesai, masuk ke direktori proyek yang baru saja di-clone:
+   cd app_profile_uas
+5. Instalasi Dependencies dengan perintah
+   flutter pub get
+6. Setelah selesai dapat dijalankan dengan perintah
+   flutter run 
